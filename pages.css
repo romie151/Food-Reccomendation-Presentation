@@ -1,6 +1,9 @@
 body {
     /* background-color: rgb(250, 175,24); */
     text-align: center;
-    color: rgb(238,39,35)
 }
 
+.jumbotron {
+    background-color: gray;
+    
+}
