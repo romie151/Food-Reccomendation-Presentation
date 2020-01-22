@@ -1,16 +1,18 @@
 body {
-    /* background-color: rgb(250, 175,24); */
+    /* background-color: #fffdfd; */
     text-align: center;
-    coloe
+    
 }
 
 .navbar {
-    background-color: rgb(254, 199, 72);
+    background-color: rgb(229, 231, 102);
+    /* rgb(254, 199, 72); */
     color: rgb(37, 63, 88); 
 }
 
 .nav-link .navbar-brand .nav-item a{ 
     color: rgb(37, 63, 88); 
+    Text-Decoration: None
 }
 
 .jumbotron {
@@ -24,4 +26,10 @@ body {
 
 .card-body {
     color: rgb(37, 63, 88); 
+}
+
+.carousel-item {background-color: gray;
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
 }
