@@ -1,9 +1,27 @@
 body {
     /* background-color: rgb(250, 175,24); */
     text-align: center;
+    coloe
+}
+
+.navbar {
+    background-color: rgb(254, 199, 72);
+    color: rgb(37, 63, 88); 
+}
+
+.nav-link .navbar-brand .nav-item a{ 
+    color: rgb(37, 63, 88); 
 }
 
 .jumbotron {
+    height: 300px;
     background-color: gray;
-    
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: fill;
+    background-image: url(./images/assorted-sliced-fruits.jpg);
+}
+
+.card-body {
+    color: rgb(37, 63, 88); 
 }
